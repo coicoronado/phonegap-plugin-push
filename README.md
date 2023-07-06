@@ -1,3 +1,5 @@
+# THIS IS A FORKED TO MAKE FOREGROUND APPS IN IOS TO BE SENDING THE NOTIFICATION HANDLER
+
 # DEPRECATED
 
 This project is not under active development. Folks who are users of this plugin should switch to using [cordova-plugin-push](https://github.com/havesource/cordova-plugin-push) which is a fork of this project.
